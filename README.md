@@ -1,2 +1,2 @@
 # Java
- Curso Java Básico pelo CursoEmVideo
+ Curso de Java Básico pelo CursoEmVideo
